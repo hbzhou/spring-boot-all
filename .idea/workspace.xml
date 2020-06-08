@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b54943b-e1e1-41b1-9a0e-29a86baa8bed" name="Default Changelist" comment="" />
+    <list default="true" id="0b54943b-e1e1-41b1-9a0e-29a86baa8bed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-activiti/spring-boot-activiti.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-activiti/spring-boot-activiti.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/spring-boot-tdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/spring-boot-tdd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/spring-boot-tdd-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/TEST-com.itsz.springboot.tdd.controller.UserControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/TEST-com.itsz.springboot.tdd.controller.UserControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/TEST-com.itsz.springboot.tdd.service.UserServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/TEST-com.itsz.springboot.tdd.service.UserServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/TEST-com.itsz.springboot.tdd.util.MathUtilTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/TEST-com.itsz.springboot.tdd.util.MathUtilTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/com.itsz.springboot.tdd.controller.UserControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/com.itsz.springboot.tdd.controller.UserControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/com.itsz.springboot.tdd.service.UserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/com.itsz.springboot.tdd.service.UserServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/com.itsz.springboot.tdd.util.MathUtilTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-tdd/target/surefire-reports/com.itsz.springboot.tdd.util.MathUtilTest.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +143,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591603248022</updated>
-      <workItem from="1591603250923" duration="3443000" />
+      <workItem from="1591603250923" duration="3450000" />
+      <workItem from="1591610223141" duration="759000" />
     </task>
     <servers />
   </component>

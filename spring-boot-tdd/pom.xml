@@ -53,10 +53,6 @@
                 <version>${version.jacoco.plugin}</version>
                 <configuration>
                     <excludes>
-                        <exclude>com/refinitiv/edp/sw/fcs/config/*</exclude>
-                        <exclude>com/refinitiv/edp/sw/fcs/constant/*</exclude>
-                        <exclude>com/refinitiv/edp/sw/fcs/dto/*</exclude>
-                        <exclude>com/refinitiv/edp/sw/fcs/exception/*</exclude>
                     </excludes>
                 </configuration>
                 <executions>

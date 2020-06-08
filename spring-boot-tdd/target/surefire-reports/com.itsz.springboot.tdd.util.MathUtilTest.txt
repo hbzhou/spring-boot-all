@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.itsz.springboot.tdd.util.MathUtilTest
 -------------------------------------------------------------------------------
-Tests run: 507, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.506 s - in com.itsz.springboot.tdd.util.MathUtilTest
+Tests run: 507, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.683 s - in com.itsz.springboot.tdd.util.MathUtilTest
