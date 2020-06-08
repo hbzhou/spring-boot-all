@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-boot-admin
+
+server:
+  port: 8803
+  servlet:
+    context-path: /admin
+
+com:
+  itsz:
+    message: hello world!!!
+    name : jeremygilbert

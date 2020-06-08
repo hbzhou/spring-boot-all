@@ -1,0 +1,3 @@
+com\itsz\springboot\email\controller\EmailController.class
+com\itsz\springboot\email\boot\EmailBootApplication.class
+com\itsz\springboot\email\config\StatusConfig.class

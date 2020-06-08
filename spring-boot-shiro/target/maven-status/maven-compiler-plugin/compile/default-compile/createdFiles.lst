@@ -1,0 +1,12 @@
+com\itsz\springboot\shiro\boot\MyBatisDataSourceConfig.class
+com\itsz\springboot\shiro\boot\SwaggerConfig.class
+com\itsz\springboot\shiro\user\mapper\TbUserMapper.class
+com\itsz\springboot\shiro\boot\MyBatisBaseDao.class
+com\itsz\springboot\shiro\user\domain\TbUser.class
+com\itsz\springboot\shiro\user\controller\UserController.class
+com\itsz\springboot\shiro\user\service\impl\UserServiceImpl.class
+com\itsz\springboot\shiro\user\service\UserService.class
+com\itsz\springboot\shiro\boot\ShiroRealm.class
+com\itsz\springboot\shiro\boot\ShiroConfiguration.class
+com\itsz\springboot\shiro\boot\ShiroBootApplication.class
+com\itsz\springboot\shiro\auth\controller\LoginController.class

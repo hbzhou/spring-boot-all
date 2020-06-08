@@ -1,0 +1,3 @@
+com\itsz\spring\boot\starter\config\HelloWorldAutoConfiguration.class
+com\itsz\spring\boot\starter\config\HelloWorldProperties.class
+com\itsz\spring\boot\starter\service\HelloWorldService.class

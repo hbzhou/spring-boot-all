@@ -1,0 +1,9 @@
+com\itsz\springboot\mybatis\boot\BootApplication.class
+com\itsz\springboot\mybatis\user\service\impl\UserServiceImpl.class
+com\itsz\springboot\mybatis\boot\MyBatisBaseDao.class
+com\itsz\springboot\mybatis\boot\MyBatisDataSourceConfig.class
+com\itsz\springboot\mybatis\user\controller\UserController.class
+com\itsz\springboot\mybatis\boot\SwaggerConfig.class
+com\itsz\springboot\mybatis\user\mapper\TbUserMapper.class
+com\itsz\springboot\mybatis\user\domain\TbUser.class
+com\itsz\springboot\mybatis\user\service\UserService.class
