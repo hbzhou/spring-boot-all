@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-application-mqtt
+server:
+  port: 8091
+
+iot:
+  mqtt:
+    clientId: client-1
+    defaultTopic: mqtt_test_topic
+    serverClientId: server-1
+    servers: tcp://192.168.33.10:1883
+
+

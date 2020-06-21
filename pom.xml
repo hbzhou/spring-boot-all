@@ -21,6 +21,8 @@
         <module>spring-boot-activiti</module>
         <module>spring-boot-my-starter</module>
         <module>spring-boot-tdd</module>
+        <module>spring-boot-exception-handler</module>
+        <module>spring-boot-mqtt</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
@@ -28,7 +30,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <spring-boot.version>2.2.5.RELEASE</spring-boot.version>
+        <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
         <hikaricp.version>3.2.0</hikaricp.version>
         <spring-boot.mybatis.version> 2.1.0</spring-boot.mybatis.version>
         <spring-boot.swagger.version>1.9.0.RELEASE</spring-boot.swagger.version>
@@ -37,7 +39,7 @@
         <version.surefire.plugin>2.22.2</version.surefire.plugin>
         <version.sonarQube.plugin>3.7.0.1746</version.sonarQube.plugin>
         <version.jacoco.plugin>0.8.5</version.jacoco.plugin>
-        <sonar.host.url>http://127.0.0.1:9000</sonar.host.url>
+        <sonar.host.url>http://127.0.0.1:8081</sonar.host.url>
     </properties>
     <dependencyManagement>
         <dependencies>
